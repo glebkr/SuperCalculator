@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0EADxsGR3wCpQPSnIXNZJ1aG3PWyWxJ4Tc0PB0dtEjCt7kglZrXBg26K32FXeVYKWVF5ARVgB3p1ONU2Y3Anw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uaape\\source\\repos\\SuperCalculator\\SuperCalculator\\SuperCalculator.iOS\\SuperCalculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

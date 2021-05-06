@@ -1,0 +1,14 @@
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\SuperCalculator.csprojAssemblyReference.cache
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\SuperCalculator.AssemblyInfoInputs.cache
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\SuperCalculator.AssemblyInfo.cs
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\SuperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\SuperCalculator.dll
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\ref\SuperCalculator.dll
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\SuperCalculator.pdb
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\bin\Debug\netstandard2.0\SuperCalculator.deps.json
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\bin\Debug\netstandard2.0\SuperCalculator.dll
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\bin\Debug\netstandard2.0\ref\SuperCalculator.dll
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\bin\Debug\netstandard2.0\SuperCalculator.pdb
+C:\Users\uaape\source\repos\SuperCalculator\SuperCalculator\SuperCalculator\obj\Debug\netstandard2.0\XamlC.stamp
